@@ -1,0 +1,36 @@
+html{
+    font-size:21px
+}
+body{
+  background-color:beige;
+
+ }
+table, tr,  th,td , caption{
+  border: 1px solid rgb(219, 24, 24);
+  font-family:'Courier New', Courier, monospace;
+  border-collapse: collapse;
+  padding: 0.5rem;
+
+
+ }
+ button{
+  background-color:blanchedalmond;
+  border-radius:1px;
+ }
+ h1{
+  font-size: 50px;
+  background: linear-gradient(
+    270deg, #b527cf,#3bd9d9
+  );
+  -webkit-background-clip: text;
+  
+  -webkit-text-fill-color: transparent;
+ }
+
+ 
+
+ 
+ 
+
+ 
+ 
